@@ -17,6 +17,7 @@ No installation is required to so as to be able to consume the visualization.
 
 ## Usage
 Open the file Global_Superstore_Sales_Story.html in your browser to view the visualization.
+The visualization is a Tableau Story, so view the story points by clicking on the captions provided at the top of the visualization.
 
 ## Bug / Feature Request
 If you find a bug (the visualization gave undesired results), kindly open an issue [here](https://github.com/IsaacMwendwa/global-superstore-visualizations-tableau/issues/new) by including your search query and the expected result.
