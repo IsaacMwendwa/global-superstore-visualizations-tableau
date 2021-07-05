@@ -13,7 +13,7 @@
 This repo contains the Tableau visualizations for the Global Superstore Dataset. The dataset used is found in the zip file global_superstore.zip.
 
 ## Installation
-No installation is required to so as to be able to consume the visualization.
+No installation is required so as to be able to consume the visualization.
 
 ## Usage
 Open the file Global_Superstore_Sales_Story.html in your browser to view the visualization.
