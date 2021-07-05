@@ -1,16 +1,22 @@
 # global-superstore-visualizations-tableau
 
-### Current App Link: https://public.tableau.com/views/StoryofGlobalSuperstoreDatasetSalesandProfits/GlobalSuperstoreSalesStory?:language=en-US&:display_count=n&:origin=viz_share_link
+#### Current App Link: https://public.tableau.com/views/StoryofGlobalSuperstoreDatasetSalesandProfits/GlobalSuperstoreSalesStory?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Contributions](#Contributions)
 * [Bug / Feature Request](#Bug--Feature-Request)
 * [Authors](#Authors)
 
 ## Introduction
+This repo contains the Tableau visualizations for the Global Superstore Dataset. The dataset used is found in the zip file global_superstore.zip.
+
+## Installation
+No installation is required to so as to be able to consume the visualization.
+
+## Usage
+Open the file Global_Superstore_Sales_Story.html in your browser to view the visualization.
 
 ## Bug / Feature Request
 If you find a bug (the visualization gave undesired results), kindly open an issue [here](https://github.com/IsaacMwendwa/global-superstore-visualizations-tableau/issues/new) by including your search query and the expected result.
